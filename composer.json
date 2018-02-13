@@ -1,0 +1,13 @@
+{
+    "name": "azziham/user-management",
+    "description": "Flarum user management!",
+    "type": "flarum-extension",
+    "require": {
+        "flarum/core": "^0.1.0-beta.3"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "User Management"
+        }
+    }
+}
